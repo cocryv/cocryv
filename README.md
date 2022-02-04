@@ -1,4 +1,3 @@
-<a href="https://github.com/cocryv"><img src="https://img.shields.io/github/followers/cocryv?label=Follow&style=social"/></a>
 <h1>Hi , I'm Valentin Cocry</h1>
 
 - 🔭 I’m developer [@Awelty]
