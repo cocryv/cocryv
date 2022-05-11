@@ -24,6 +24,7 @@
   <tr>
     <td valign="top">
         <a href="https://github.com/cocryv"><img src="https://github-readme-streak-stats.herokuapp.com?user=cocryv&theme=github-dark&dates=58A6FF&fire=1F6FEB&ring=58A6FF&stroke=58A6FF&text_color=C3D1D9&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&border=white" alt="GitHub Streak"/></a>
+              <a href="https://github.com/cocryv"><img src="https://github-readme-stats.vercel.app/api?username=cocryv&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" alt="Valentin's GitHub stats"/></a>
     </td>
     <td valign="top">
         <a href="https://github.com/cocryv"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocryv&count_private=true&show_icons=true&include_all_commits=true&layout=compact&langs_count=6&theme=github_dark" alt="Top Langs"/></a>
