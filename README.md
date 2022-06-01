@@ -2,8 +2,8 @@
 
 - 🔭 I’m developer [@Awelty]
 - 👨‍🎓 I'm student
-- 🌱 I’m currently learning **React.js** and **Node.js**
-- 📫 How to reach me: [@valcocry](https://twitter.com/valcocry) on Twitter
+- 🌱 I’m currently learning **Go** and **Typescript**
+- 📫 How to reach me: [@valcocry](https://twitter.com/krezy_dev) on Twitter
 
 ### 🛠 Tech Stack
 
@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
