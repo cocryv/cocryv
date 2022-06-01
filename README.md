@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
