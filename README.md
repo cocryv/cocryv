@@ -1,7 +1,6 @@
 <h1>Hi , I'm Valentin Cocry</h1>
 
 - 🔭 I’m developer [@Awelty]
-- 👨‍🎓 I'm student
 - 🌱 I’m currently learning **Go** and **Typescript**
 - 📫 How to reach me: [@valcocry](https://twitter.com/krezy_dev) on Twitter
 
