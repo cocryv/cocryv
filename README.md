@@ -2,7 +2,7 @@
 
 - 🔭 I’m developer [@Awelty]
 - 🌱 I’m currently learning **Go** and **Typescript**
-- 📫 How to reach me: [@valcocry](https://twitter.com/krezy_dev) on Twitter
+- 📫 How to reach me: [@krezy_dev](https://twitter.com/krezy_dev) on Twitter
 
 ### 🛠 Tech Stack
 
