@@ -1,7 +1,7 @@
 <h1>Hi , I'm Valentin Cocry</h1>
 
 - 🔭 I’m developer [@Awelty]
-- 🌱 I’m currently learning **Go**, **Rust** and **Python** and **Cloud computing**
+- 🌱 I’m currently learning **Go**, **Rust**, **Kubernetes**, **Cloud computing** and more
 - 📫 How to reach me: [@krezy_dev](https://twitter.com/krezy_dev) on Twitter
 
 ### 🛠 Tech Stack
