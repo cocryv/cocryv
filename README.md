@@ -2,7 +2,6 @@
 
 - 🔭 I’m a DevOps [@Sopra Steria]
 - 🌱 I’m currently learning **Go**, **Rust**, **Kubernetes**, **Cloud computing** and more
-- 📫 How to reach me: [@krezy_dev](https://twitter.com/krezy_dev) on Twitter
 
 ### 🛠 Tech Stack
 
